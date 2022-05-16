@@ -8,13 +8,13 @@
 
 ## GPU
 
-Nvidia GTX 1060
+-Nvidia GTX 1060
 
-Driver version 512
+-Driver version 512
 
-CUDA 11.2
+-CUDA 11.2
 
-Cudnn 8.3
+-Cudnn 8.3
 
 ## Sequence
 
